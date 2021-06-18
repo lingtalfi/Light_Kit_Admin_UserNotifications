@@ -4,9 +4,7 @@ description: <
 >
 
 
-layout: config/open/Ling.Light_Kit_Admin/lke/layouts/$t/main_layout.php
-vars:
-    theme: $t
+layout: config/open/Ling.Light_Kit_Admin/Ling.Light_Kit_Editor/admin/layouts/$t/main_layout.php
 layout_vars: []
 
 
